@@ -1,0 +1,6 @@
+openai
+numpy
+tiktoken
+psycopg2-binary
+streamlit
+requests
